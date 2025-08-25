@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 <h3 align="center">A passionate Software Engineer | Flutter Mobile App Developer from Egypt</h3>
 
-<!-- Profile Views + Social -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mousa2004&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/mousa2004?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/mousa2004?affiliations=OWNER&style=social)
 
 ---
 
@@ -29,7 +26,6 @@
 ---
 
 ### ⚒️ Languages and Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -37,6 +33,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 ---
 
