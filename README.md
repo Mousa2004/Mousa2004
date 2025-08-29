@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousa2004&label=Profile%20views&color=0e75b6&style=flat" alt="mousa2004" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mousa2004&theme=alduin" alt="mousa2004" /></a> </p>
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=lucthienphong1120)](https://github.com/lucthienphong1120/github-trophies)
 
 - 🌱 I’m currently learning **Advanced mobile app development concepts - Flutter performance optimization - API integration best practices**
 
