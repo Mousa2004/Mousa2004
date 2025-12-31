@@ -37,11 +37,18 @@
 
 ### 🏗️ Architecture & Best Practices
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=archlinux&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge&logo=android&logoColor=white)
+
+### 🌐 Networking & API
+![Dio](https://img.shields.io/badge/Dio-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-6DB33F?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=square&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🔥 Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=flutter&logoColor=black)
 
 ### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,8 +57,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mousa2004&show_icons=true&locale=en&layout=compact" alt="mousa2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mousa2004&show_icons=true&locale=en" alt="mousa2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mousa2004&" alt="mousa2004" /></p>
