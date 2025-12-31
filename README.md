@@ -5,12 +5,13 @@
 
 [![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Mousa2004&theme=nord&title=Stars,Commits,Followers,Repositories,Issues,PullRequest)](https://github.com/lucthienphong1120/github-trophies)
 
-- 📫 How to reach me **Email:[mousa2692004@gmail.com](mailto:mousa2692004@gmail.com) || WhatsApp: [+201271932789](https://wa.me/201271932789)**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-mousa-flutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mousa-flutter" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-mousa-flutter)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa2692004@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201271932789)
+
+
 
 ## 🛠️ Languages, Tools & Architecture
 
