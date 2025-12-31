@@ -5,19 +5,7 @@
 
 [![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Mousa2004&theme=nord&title=Stars,Commits,Followers,Repositories,Issues,PullRequest)](https://github.com/lucthienphong1120/github-trophies)
 
-
-
-- 🌱 I’m currently learning **Advanced mobile app development concepts - Flutter performance optimization - API integration best practices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mousa2004](https://github.com/Mousa2004)
-
-- 📝 I regularly write articles on [https://github.com/Mousa2004](https://github.com/Mousa2004)
-
-- 💬 Ask me about **Flutter, Dart, Firebase, State Management, API integration, and mobile UI/UX design.**
-
 - 📫 How to reach me **Email:[mousa2692004@gmail.com](mailto:mousa2692004@gmail.com) || WhatsApp: [+201271932789](https://wa.me/201271932789)**
-
-- 📄 Know about my experiences [https://github.com/Mousa2004](https://github.com/Mousa2004)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
